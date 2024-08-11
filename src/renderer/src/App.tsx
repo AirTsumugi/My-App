@@ -1,7 +1,8 @@
+import Layout from './layout/Layout'
 function App(): JSX.Element {
   return (
     <>
-      <h1>哈哈</h1>
+      <Layout></Layout>
     </>
   )
 }
